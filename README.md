@@ -1,2 +1,2 @@
 # Songcrud
-first Django project
+Check inside the master branch for the pushed Django project#
